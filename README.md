@@ -1,4 +1,4 @@
-# Zen World VR
+# The Inner Realm: Zen Space Simulation
 
 **A relaxing VR exploration experience for Meta Quest 3.**
 
