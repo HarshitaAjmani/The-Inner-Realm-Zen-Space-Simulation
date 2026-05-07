@@ -1,26 +1,26 @@
-# Zen World VR 🌌🌿
+# Zen World VR
 
 **A relaxing VR exploration experience for Meta Quest 3.**
 
 Zen World is an immersive virtual reality application built in Unity. It features a central "Zen Garden" hub where players can relax, explore, and unlock portals to different atmospheric worlds using a physical key-and-lock mechanic.
 
-## 🎮 Features
+## Features
 * **Immersive Main Menu:** Starts in a calming 360° video environment with floating UI.
 * **Physics-Based Interaction:** Realistic grabbing and throwing mechanics for keys and objects.
 * **Portal System:** Find specific keys to unlock doors to new worlds:
-    * 🗝️ **Northern Lights:** A world under the aurora borealis.
-    * 🗝️ **Van Gogh World:** A stylistic artistic environment.
+    * **Northern Lights:** A world under the aurora borealis.
+    * **Van Gogh World:** A stylistic artistic environment.
 * **Diegetic UI:** Tutorial systems integrated into the world (stone tablets) rather than floating menus.
 * **Smooth Locomotion:** Continuous movement and snap turning designed for comfort.
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Engine:** Unity 2022.3.62
 * **Platform:** Android (Meta Quest 3)
 * **Toolkit:** XR Interaction Toolkit (VR Core Template)
 * **Plugin:** OpenXR (Meta Quest Support)
 * **Scripting:** C#
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 * Unity Hub
@@ -50,3 +50,9 @@ Zen World is an immersive virtual reality application built in Unity. It feature
         4. `VanGoghWorld`
 
 4.  **Run on Device**
+
+5.  ### Contributers:
+[Mihir Sukharamwala](https://github.com/msukharam963)
+[Harshita Ajmani](https://github.com/HarshitaAjmani)
+[Promita](https://github.com/promita1)
+[Ashee Mishra]
