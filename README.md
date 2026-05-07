@@ -51,7 +51,7 @@ Zen World is an immersive virtual reality application built in Unity. It feature
 
 4.  **Run on Device**
 
-5.  ### Contributers:
+ ### Contributers:
 [Mihir Sukharamwala](https://github.com/msukharam963) , 
 [Harshita Ajmani](https://github.com/HarshitaAjmani) , 
 [Promita](https://github.com/promita1) , 
